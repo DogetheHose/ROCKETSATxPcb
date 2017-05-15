@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VDD5V Pin=C1-1
+Removed Pin From Net: NetName=VDD5V Pin=T-1
+Added Component: Designator=P(HDR1X5)
+Added Pin To Net: NetName=VDD5V Pin=P-1
+Added Pin To Net: NetName=OUTP Pin=P-2
+Added Pin To Net: NetName=GND Pin=P-3
+Added Pin To Net: NetName=OUTT Pin=P-4
+Added Pin To Net: NetName=VDD3.3V Pin=C1-1
+Added Pin To Net: NetName=VDD3.3V Pin=P-5
+Added Pin To Net: NetName=VDD3.3V Pin=T-1
+Added Net: Name=VDD3.3V
+Added Member To Class: ClassName=TempPres Member=Component C2 Cap Semi
+Added Member To Class: ClassName=TempPres Member=Component C3 Cap Semi
+Added Member To Class: ClassName=TempPres Member=Component P Pressure
+Added Room: Name=TempPres

@@ -1,0 +1,3 @@
+Remove Pin=P-1 From Net=VDD5V
+Remove Pin=P-2 From Net=OUTP
+Remove Pin=P-4 From Net=OUTT

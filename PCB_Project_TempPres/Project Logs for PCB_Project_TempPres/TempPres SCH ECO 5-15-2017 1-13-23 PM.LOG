@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=P Old Footprint=HDR1X5H New Footprint=HDR1X4
+Add Pin To Net: Pin=P-4 Old Net=NetP_4 New Net=OUTT
