@@ -79,22 +79,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document4]
-DocumentPath=..\..\..\..\Public\Documents\Altium\AD 10\Examples\Buck_LMZ1420XX.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document5]
 DocumentPath=MPU-9250.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -110,7 +94,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document6]
+[Document5]
 DocumentPath=MPU-9250.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -126,23 +110,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document7]
-DocumentPath=..\..\..\..\Public\Documents\Altium\AD 10\Examples\Buck_5V.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document8]
+[Document6]
 DocumentPath=environmentalAccelerometer.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +126,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document9]
+[Document7]
 DocumentPath=OV7670.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +142,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document10]
+[Document8]
 DocumentPath=RS232_Level_Shifter.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +158,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document11]
+[Document9]
 DocumentPath=RS232_Level_Shifter.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +174,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document12]
+[Document10]
 DocumentPath=Reg_IFX.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +190,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document13]
+[Document11]
 DocumentPath=Reg_IFX.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +206,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document14]
+[Document12]
 DocumentPath=USD CARD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +222,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document15]
+[Document13]
 DocumentPath=uSDD card.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +238,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document16]
+[Document14]
 DocumentPath=KP234.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +254,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document17]
+[Document15]
 DocumentPath=KP234.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,7 +270,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document18]
+[Document16]
 DocumentPath=ArduinoMainBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -318,8 +286,8 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document19]
-DocumentPath=ArduinoPWR-COMM-DIG_SDCard.SchDoc
+[Document17]
+DocumentPath=ArduinoPWR-DIG_SDCard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=1
@@ -334,7 +302,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document20]
+[Document18]
 DocumentPath=Arduino8Header.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -350,7 +318,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document21]
+[Document19]
 DocumentPath=Arduino2x18Header.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -366,7 +334,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document22]
+[Document20]
 DocumentPath=Analog_Input.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -382,7 +350,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document23]
+[Document21]
 DocumentPath=MAX3232.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -398,7 +366,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document24]
+[Document22]
 DocumentPath=RSX_Telemetry.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +382,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document25]
+[Document23]
 DocumentPath=Telemetry_AnalogSensors_PTC08_Shifter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -430,7 +398,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document26]
+[Document24]
 DocumentPath=Power_TimerEvents.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -446,7 +414,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document27]
+[Document25]
 DocumentPath=GoPro_Actuator_LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +430,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document28]
+[Document26]
 DocumentPath=AdafruitSDCard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -478,7 +446,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document29]
+[Document27]
 DocumentPath=Power_buckConverters.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
