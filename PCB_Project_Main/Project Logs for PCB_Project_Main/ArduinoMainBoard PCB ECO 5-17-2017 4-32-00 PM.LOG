@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=HUM-1
+Added Component: Designator=HUM(HDR1X3)
+Added Pin To Net: NetName=5V Pin=HUM-1
+Added Pin To Net: NetName=GND Pin=HUM-1
+Added Pin To Net: NetName=5V Pin=HUM-3
+Added Pin To Net: NetName=NetC12_2 Pin=MEGA Analog In 2-6
+Added Pin To Net: NetName=NetMEGA Analog In 2_12 Pin=MEGA Analog In 2-7
+Change Net Name : Old Net Name=NetMEGA Analog In 2_12 New Net Name=NetMEGA Analog In 2_7

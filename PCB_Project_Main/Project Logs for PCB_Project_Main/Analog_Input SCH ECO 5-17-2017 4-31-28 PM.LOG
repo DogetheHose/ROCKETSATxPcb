@@ -1,0 +1,6 @@
+Remove Pin=HUM-2 From Net=A13
+Remove Pin=MEGA Analog In 1-0 From Net=A0
+Remove Pin=MEGA Analog In 1-1 From Net=A1
+Remove Pin=MEGA Analog In 1-2 From Net=A2
+Remove Pin=MEGA Analog In 2-5 From Net=A13
+Change Pin Designator/Name:  Old Designator=HUM-1 Old Name=GND New Designator =5V New Name=1

@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R9 Old Footprint=smd_res1 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R10 Old Footprint=smd_res1 New Footprint=AXIAL-0.4
+Change Component Comment: Designator=R11 Old Comment=1.1K New Comment=Res2
+Change Component Comment: Designator=R9 Old Comment=2.43K New Comment=Res2
+Change Component Comment: Designator=R7 Old Comment=4.3K New Comment=Res2
+Change Component Comment: Designator=R10 Old Comment=34K New Comment=Res2
+Change Component Comment: Designator=R8 Old Comment=100K New Comment=Res2
+Change Component Comment: Designator=R12 Old Comment=680 New Comment=Res2

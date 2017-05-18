@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=HUM-1
+Removed Pin From Net: NetName=A0 Pin=MEGA Analog In-1
+Removed Pin From Net: NetName=A1 Pin=MEGA Analog In-2
+Removed Pin From Net: NetName=A2 Pin=MEGA Analog In-3
+Removed Pin From Net: NetName=NetC13_2 Pin=MEGA Analog In-4
+Removed Pin From Net: NetName=NetMEGA Analog In_5 Pin=MEGA Analog In-5
+Removed Pin From Net: NetName=NetC14_2 Pin=MEGA Analog In-6
+Removed Pin From Net: NetName=NetMEGA Analog In_7 Pin=MEGA Analog In-7
+Removed Pin From Net: NetName=5V Pin=MEGA Power-5
+Removed Pin From Net: NetName=NetMEGA Analog In_8 Pin=TMP-3
+Added Component: Designator=HUM(HDR1X3)
+Added Pin To Net: NetName=5V Pin=HUM-1
+Added Pin To Net: NetName=GND Pin=HUM-1
+Added Pin To Net: NetName=A13 Pin=HUM-2
+Added Pin To Net: NetName=5V Pin=HUM-3
+Added Pin To Net: NetName=A0 Pin=MEGA Analog In-1
+Added Pin To Net: NetName=A1 Pin=MEGA Analog In-2
+Added Pin To Net: NetName=A2 Pin=MEGA Analog In-3
+Added Pin To Net: NetName=NetC13_2 Pin=MEGA Analog In-4
+Added Pin To Net: NetName=NetMEGA Analog In_5 Pin=MEGA Analog In-5
+Added Pin To Net: NetName=A13 Pin=MEGA Analog In-6
+Added Pin To Net: NetName=NetC14_2 Pin=MEGA Analog In-6
+Added Pin To Net: NetName=NetC12_2 Pin=MEGA Analog In-7
+Added Pin To Net: NetName=NetMEGA Analog In_7 Pin=MEGA Analog In-7
+Added Pin To Net: NetName=5V Pin=MEGA Power-8
+Added Pin To Net: NetName=NetMEGA Analog In_8 Pin=SEN1-4
+Added Member To Class: ClassName=Analog_Input Member=Component HUM Humidity
+Added Member To Class: ClassName=Telemetry_AnalogSensors_PTC08_Shifter Member=Component HUM Humidity
+Added Room: Name=Analog_Input
