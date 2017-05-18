@@ -447,22 +447,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document27]
-DocumentPath=Power_buckConverters.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document28]
 DocumentPath=LM1117.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -478,7 +462,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document29]
+[Document28]
 DocumentPath=LM1117.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -494,7 +478,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document30]
+[Document29]
 DocumentPath=LMZ1420XX.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -510,7 +494,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document31]
+[Document30]
 DocumentPath=..\PCB_Project_TempPres\LMZ1420XX.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -526,7 +510,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document32]
+[Document31]
 DocumentPath=elec_10uF_cap.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,8 +526,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document33]
+[Document32]
 DocumentPath=elec_10uF_cap.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document33]
+DocumentPath=smd_res1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document34]
+DocumentPath=smd_res1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
