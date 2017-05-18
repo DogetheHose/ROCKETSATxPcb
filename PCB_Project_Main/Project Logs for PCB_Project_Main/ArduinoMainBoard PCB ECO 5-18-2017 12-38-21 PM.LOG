@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=ArduinoPWR-DIG_SDCard Member=R24
+Added Pin To Net: NetName=NetMEGA DIGITAL_22 Pin=MEGA DIGITAL-22
+Added Pin To Net: NetName=NetMEGA DIGITAL_22 Pin=R23-2
+Added Net: Name=NetMEGA DIGITAL_22
+Added Pin To Net: NetName=NetMEGA DIGITAL_24 Pin=MEGA DIGITAL-24
+Added Pin To Net: NetName=NetMEGA DIGITAL_24 Pin=R22-2
+Added Net: Name=NetMEGA DIGITAL_24
+Added Pin To Net: NetName=NetMEGA DIGITAL_26 Pin=MEGA DIGITAL-26
+Added Pin To Net: NetName=NetMEGA DIGITAL_26 Pin=R21-2
+Added Net: Name=NetMEGA DIGITAL_26
+Added Pin To Net: NetName=NetMEGA DIGITAL_28 Pin=MEGA DIGITAL-28
+Added Pin To Net: NetName=NetMEGA DIGITAL_28 Pin=R20-2
+Added Net: Name=NetMEGA DIGITAL_28
+Added Pin To Net: NetName=NetMEGA DIGITAL_30 Pin=MEGA DIGITAL-30
+Added Pin To Net: NetName=NetMEGA DIGITAL_30 Pin=R19-2
+Added Net: Name=NetMEGA DIGITAL_30
+Added Room: Name=Analog_Input
+Added Room: Name=ArduinoPWR-DIG_SDCard
+Added Room: Name=GoPro_Actuator_LED
+Added Room: Name=Power_TimerEvents
+Added Room: Name=Telemetry_AnalogSensors_PTC08_Shifter
