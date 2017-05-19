@@ -319,7 +319,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document19]
-DocumentPath=Arduino2x18Header.SchLib
+DocumentPath=MAX3232.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -335,13 +335,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document20]
-DocumentPath=Analog_Input.SchDoc
+DocumentPath=Arduino2x18Header.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -351,13 +351,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document21]
-DocumentPath=MAX3232.SchLib
+DocumentPath=Analog_Input.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -575,14 +575,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_Project_Main\Design Rule Check - ArduinoMainBoard.html
+DocumentPath=Project Outputs for PCB_Project_Main\ArduinoMainBoard.BOM
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=MAIN.PcbDoc.htm
+DocumentPath=Project Outputs for PCB_Project_Main\ArduinoMainBoard.CSV
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for PCB_Project_Main\Design Rule Check - ArduinoMainBoard.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=MAIN.PcbDoc.htm
+DItemRevisionGUID=
+
+[GeneratedDocument5]
 DocumentPath=Main_Board.PcbDoc.htm
 DItemRevisionGUID=
 
@@ -967,6 +975,8 @@ OutputName5=Simple BOM
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=SimpleBOMView|SimpleBOMMode=0
 OutputType6=SinglePinNetReporter
 OutputName6=Report Single Pin Nets
 OutputDocumentPath6=

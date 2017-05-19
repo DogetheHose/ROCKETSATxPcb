@@ -1,0 +1,53 @@
+Bill of Material for 
+On 5/18/2017 at 7:39:10 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.022uF             1608[0603]       2    C3, C7                       Capacitor (Semiconductor SIM Model) 
+ 0.1uF               C1206            1    C15                          Capacitor (Semiconductor SIM Model) 
+ 100                 AXIAL-0.4        2    R17, R18                     Resistor             
+ 100K                AXIAL-0.4        2    R1, R3                       Resistor             
+ 100nF               C1206            3    C12, C13, C14                Capacitor (Semiconductor SIM Model) 
+ 100uF               C1206            1    C4                           Capacitor (Semiconductor SIM Model) 
+ 100uF               POLAR0.8         1    C11                          Polarized Capacitor (Axial) 
+ 10uF                C1206            2    C1, C5                       Capacitor (Semiconductor SIM Model) 
+ 10uF                elec_10uF        2    C9, C10                                           
+ 1K                  AXIAL-0.4        2    R15, R16                     Resistor             
+ 22K                 AXIAL-0.4        3    R25, R27, R29                Resistor             
+ 249K                AXIAL-0.4        1    R6                           Resistor             
+ 34K                 smd_res1         1    R5                                                
+ 4.3K                AXIAL-0.4        1    R2                           Resistor             
+ 4700pF              1608[0603]       2    C2, C6                       Capacitor (Semiconductor SIM Model) 
+ 47uF                C1206            1    C8                           Capacitor (Semiconductor SIM Model) 
+ 59K                 AXIAL-0.4        3    R26, R28, R30                Resistor             
+ 6.49K               AXIAL-0.4        1    R4                           Resistor             
+ 75                  AXIAL-0.4       10    R13, R14, R19, R20, R21, R22 Resistor             
+                                           R23, R31, R32, R33
+ Accelerometer       HDR1X7           1    ACC                          Header, 7-Pin        
+ Actuator (F)        HDR1X2           1    LA1                          Header, 2-Pin        
+ Actuator (R)        HDR1X2           1    LA2                          Header, 2-Pin        
+ Amb Temp            HDR1X3           1    TMP                          Header, 3-Pin        
+ Boom Temp           HDR1X2           3    BTMP1, BTMP2, BTMP3          Header, 2-Pin        
+ Front LED           HDR1X2           1    LED1                         Header, 2-Pin        
+ GoPro 1             HDR1X3           1    GP1                          Header, 3-Pin        
+ GoPro 2             HDR1X3           1    GP2                          Header, 3-Pin        
+ Humidity            HDR1X3           2    HUM, HUM1                    Header, 3-Pin        
+ LM1117              SOT230P700X180-4N    1    5V_to_3.3V                                        
+ LMZ14201H           LMZ1420          1    Buck_12V                                          
+ LMZ14203HTZ         LMZ1420          1    Buck_5V                                           
+ MEGA Analog In 1    HDR1X8           1    MEGA Analog In 1             Header, 8-Pin        
+ MEGA Analog Input 2 HDR1X8           1    MEGA Analog In 2             Header, 8-Pin        
+ MEGA Communication  HDR1X8           1    MEGA Comm                                         
+ MEGA Digital        HDR2X18          1    MEGA DIGITAL                                      
+ MEGA Power          HDR1X8           1    MEGA Power                                        
+ MEGA PWN Output     HDR1X10          1    MEGA PWM                     Header, 10-Pin       
+ MOSFET-N            E3               6    Q1, Q2, Q4, Q5, Q6, Q7       N-Channel MOSFET     
+ PTC08 (F)           HDR1X4           1    PTC2                         Header, 4-Pin        
+ PTC08 (R)           HDR1X4           1    PTC1                         Header, 4-Pin        
+ Rear LED            HDR1X2           1    LED2                         Header, 2-Pin        
+ Res2                AXIAL-0.4        6    R7, R8, R9, R10, R11, R12    Resistor             
+ RockSat Telemetry   HDR1X6           1    RS Telem                                          
+ RS Power            HDR1X7           1    RS PWR                       Header, 7-Pin        
+ SD Card             HDR1X8           1    SD Card                                           
+ Status LEDs         HDR1X7           1    Status LEDs                  Header, 7-Pin        
+ Temp/Press          HDR1X5           3    SEN1, SEN2, SEN3             Header, 5-Pin        

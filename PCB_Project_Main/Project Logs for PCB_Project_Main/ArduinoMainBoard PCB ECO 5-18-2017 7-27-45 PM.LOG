@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=TEMP/PRES NewDesignator=SEN1
+Added Room: Name=Analog_Input
+Added Room: Name=ArduinoPWR-DIG_SDCard
+Added Room: Name=GoPro_Actuator_LED
+Added Room: Name=Power_TimerEvents
+Added Room: Name=Telemetry_AnalogSensors_PTC08_Shifter
