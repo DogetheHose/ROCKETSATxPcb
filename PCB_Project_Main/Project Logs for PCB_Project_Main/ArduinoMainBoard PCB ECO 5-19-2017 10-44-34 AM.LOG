@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=5V Pin=C20-2
+Added Member To Class: ClassName=Telemetry_AnalogSensors_PTC08_Shifter Member=Component MAX3232 
+Added Room: Name=Analog_Input
+Added Room: Name=ArduinoPWR-DIG_SDCard
+Added Room: Name=GoPro_Actuator_LED
+Added Room: Name=Power_TimerEvents
+Added Room: Name=Telemetry_AnalogSensors_PTC08_Shifter
