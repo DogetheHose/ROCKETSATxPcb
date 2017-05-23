@@ -1,0 +1,13 @@
+Added Component: Designator=R42(AXIAL-0.4)
+Added Component: Designator=R43(AXIAL-0.4)
+Added Pin To Net: NetName=GND Pin=R42-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R42-2
+Added Pin To Net: NetName=NetLED2_1 Pin=R43-1
+Added Pin To Net: NetName=GND Pin=R43-2
+Added Member To Class: ClassName=GoPro_Actuator_LED Member=Component R42 Res2
+Added Member To Class: ClassName=GoPro_Actuator_LED Member=Component R43 Res2
+Added Room: Name=Analog_Input
+Added Room: Name=ArduinoPWR-DIG_SDCard
+Added Room: Name=GoPro_Actuator_LED
+Added Room: Name=Power_TimerEvents
+Added Room: Name=Telemetry_AnalogSensors_PTC08_Shifter

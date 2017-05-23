@@ -1,11 +1,10 @@
-Output: Simple BOM
-Type  : SimpleBOM
+Output: Report Single Pin Nets
+Type  : SinglePinNetReporter
 From  : Variant [[No Variations]] of Project [PCB_Project_Main.PrjPcb]
-   Generated File[ArduinoMainBoard.BOM]
-   Generated File[ArduinoMainBoard.CSV]
+   Generated File[ArduinoMainBoard.REP]
 
 
-Files Generated   : 2
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 7:39:10 PM On 5/18/2017
+Finished Output Generation At 3:31:22 PM On 5/23/2017

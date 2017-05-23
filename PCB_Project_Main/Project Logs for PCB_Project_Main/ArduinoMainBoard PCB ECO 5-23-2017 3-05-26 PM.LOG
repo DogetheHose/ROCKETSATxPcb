@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=HUM1-2
+Removed Pin From Net: NetName=A13 Pin=HUM-1
+Removed Pin From Net: NetName=GND Pin=HUM-2
+Change Component Designator: OldDesignator=Temp/Pres NewDesignator=SEN1
+Added Pin To Net: NetName=GND Pin=HUM1-1
+Added Pin To Net: NetName=GND Pin=HUM-1
+Added Pin To Net: NetName=A13 Pin=HUM-2
+Added Pin To Net: NetName=NetHUM1_2 Pin=HUM1-2
+Added Pin To Net: NetName=NetHUM1_2 Pin=RS Telem-6
+Added Net: Name=NetHUM1_2
+Added Room: Name=Analog_Input
+Added Room: Name=ArduinoPWR-DIG_SDCard
+Added Room: Name=GoPro_Actuator_LED
+Added Room: Name=Power_TimerEvents
+Added Room: Name=Telemetry_AnalogSensors_PTC08_Shifter
