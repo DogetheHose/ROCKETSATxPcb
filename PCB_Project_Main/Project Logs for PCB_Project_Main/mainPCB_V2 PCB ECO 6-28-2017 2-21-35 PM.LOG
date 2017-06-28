@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 4H New DesignItemId=Header 4
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Header 4H New DesignItemId=Header 4
+Change Component DesignItemId : Designator=P3 Old DesignItemId=Header 4H New DesignItemId=Header 4
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X4H New Footprint=HDR1X4
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X4H New Footprint=HDR1X4
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X4H New Footprint=HDR1X4
+Added Member To Class: ClassName=Telemetry_AnalogSensors_PTC08_Shifter Member=Component PTC1 PTC08 (R)
+Added Room: Name=Analog_Input
+Added Room: Name=ArduinoPWR-DIG_SDCard
+Added Room: Name=GoPro_Actuator_LED
+Added Room: Name=Power_TimerEvents
+Added Room: Name=Telemetry_AnalogSensors_PTC08_Shifter
