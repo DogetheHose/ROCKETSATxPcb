@@ -1,0 +1,210 @@
+Removed Pin From Net: NetName=5V Pin=5V_to_3.3V-1
+Removed Pin From Net: NetName=3.3V Pin=5V_to_3.3V-2
+Removed Pin From Net: NetName=3.3V Pin=5V_to_3.3V-4
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=5V Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=3.3V Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=RS232_TX Pin=MEGA Comm-5
+Removed Pin From Net: NetName=TE2_INT Pin=MEGA Comm-7
+Removed Pin From Net: NetName=TE3_INT Pin=MEGA Comm-8
+Removed Pin From Net: NetName=5V Pin=MEGA DIGITAL-1
+Removed Pin From Net: NetName=5V Pin=MEGA DIGITAL-2
+Removed Pin From Net: NetName=GPRO_TRIG1 Pin=MEGA DIGITAL-5
+Removed Pin From Net: NetName=LED_TRIG Pin=MEGA DIGITAL-7
+Removed Pin From Net: NetName=LA_TRIG1 Pin=MEGA DIGITAL-9
+Removed Pin From Net: NetName=LA_TRIG2 Pin=MEGA DIGITAL-11
+Removed Pin From Net: NetName=GPRO_TRIG2 Pin=MEGA DIGITAL-25
+Removed Pin From Net: NetName=GND Pin=MEGA DIGITAL-35
+Removed Pin From Net: NetName=GND Pin=MEGA DIGITAL-36
+Removed Pin From Net: NetName=GND Pin=MEGA Power-7
+Removed Pin From Net: NetName=5V Pin=MEGA Power-8
+Removed Pin From Net: NetName=3.3V Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R12-2
+Removed Pin From Net: NetName=LA_TRIG2 Pin=R15-1
+Removed Pin From Net: NetName=LA_TRIG1 Pin=R16-1
+Removed Pin From Net: NetName=5V Pin=R31-2
+Removed Pin From Net: NetName=5V Pin=R32-2
+Removed Pin From Net: NetName=5V Pin=R33-2
+Removed Pin From Net: NetName=GND Pin=Status LEDs-7
+Removed Pin From Net: NetName=5V Pin=Temp/Pres-1
+Removed Pin From Net: NetName=NetR25_1 Pin=Temp/Pres-2
+Removed Pin From Net: NetName=GND Pin=Temp/Pres-3
+Removed Pin From Net: NetName=NetMEGA Analog In 2_8 Pin=Temp/Pres-4
+Removed Pin From Net: NetName=3.3V Pin=Temp/Pres-5
+Change Component DesignItemId : Designator=MEGA Comm Old DesignItemId=Component_1 New DesignItemId=Component_99
+Change Component Comment : Designator=MAX3232 Old Comment= New Comment=Component_1
+Change Component Comment : Designator=C15 Old Comment=0.1uF New Comment=Cap Semi
+Change Component Comment : Designator=C16 Old Comment=0.1uF New Comment=Cap Semi
+Change Component Comment : Designator=C17 Old Comment=0.1uF New Comment=Cap Semi
+Change Component Comment : Designator=C18 Old Comment=0.1uF New Comment=Cap Semi
+Change Component Comment : Designator=C19 Old Comment=0.1uF New Comment=Cap Semi
+Change Component Comment : Designator=C20 Old Comment=0.1uF New Comment=Cap Semi
+Change Component Comment : Designator=C3 Old Comment=0.022uF New Comment=Cap Semi
+Change Component Comment : Designator=C7 Old Comment=0.022uF New Comment=Cap Semi
+Change Component Comment : Designator=R15 Old Comment=1K New Comment=Res2
+Change Component Comment : Designator=R16 Old Comment=1K New Comment=Res2
+Change Component Comment : Designator=R2 Old Comment=4.3K New Comment=Res2
+Change Component Comment : Designator=R4 Old Comment=6.49K New Comment=Res2
+Change Component Comment : Designator=R34 Old Comment=10k New Comment=Res2
+Change Component Comment : Designator=R35 Old Comment=10k New Comment=Res2
+Change Component Comment : Designator=R36 Old Comment=10k New Comment=Res2
+Change Component Comment : Designator=R37 Old Comment=10k New Comment=Res2
+Change Component Comment : Designator=C1 Old Comment=10uF New Comment=Cap Semi
+Change Component Comment : Designator=C5 Old Comment=10uF New Comment=Cap Semi
+Change Component Comment : Designator=R25 Old Comment=22K New Comment=Res2
+Change Component Comment : Designator=R27 Old Comment=22K New Comment=Res2
+Change Component Comment : Designator=R29 Old Comment=22K New Comment=Res2
+Change Component Comment : Designator=R5 Old Comment=34K New Comment=smd_res1
+Change Component Comment : Designator=C8 Old Comment=47uF New Comment=Cap Semi
+Change Component Comment : Designator=R26 Old Comment=59K New Comment=Res2
+Change Component Comment : Designator=R28 Old Comment=59K New Comment=Res2
+Change Component Comment : Designator=R30 Old Comment=59K New Comment=Res2
+Change Component Comment : Designator=R13 Old Comment=75 New Comment=Res2
+Change Component Comment : Designator=R14 Old Comment=75 New Comment=Res2
+Change Component Comment : Designator=R19 Old Comment=75 New Comment=Res2
+Change Component Comment : Designator=R20 Old Comment=75 New Comment=Res2
+Change Component Comment : Designator=R21 Old Comment=75 New Comment=Res2
+Change Component Comment : Designator=R22 Old Comment=75 New Comment=Res2
+Change Component Comment : Designator=R23 Old Comment=75 New Comment=Res2
+Change Component Comment : Designator=R31 Old Comment=75 New Comment=Res2
+Change Component Comment : Designator=R32 Old Comment=75 New Comment=Res2
+Change Component Comment : Designator=R33 Old Comment=75 New Comment=Res2
+Change Component Comment : Designator=R17 Old Comment=100 New Comment=Res2
+Change Component Comment : Designator=R18 Old Comment=100 New Comment=Res2
+Change Component Comment : Designator=R1 Old Comment=100K New Comment=Res2
+Change Component Comment : Designator=R3 Old Comment=100K New Comment=Res2
+Change Component Comment : Designator=C12 Old Comment=100nF New Comment=Cap Semi
+Change Component Comment : Designator=C13 Old Comment=100nF New Comment=Cap Semi
+Change Component Comment : Designator=C14 Old Comment=100nF New Comment=Cap Semi
+Change Component Comment : Designator=C4 Old Comment=100uF New Comment=Cap Semi
+Change Component Comment : Designator=R6 Old Comment=249K New Comment=Res2
+Change Component Comment : Designator=C2 Old Comment=4700pF New Comment=Cap Semi
+Change Component Comment : Designator=C6 Old Comment=4700pF New Comment=Cap Semi
+Change Component Comment : Designator=Buck_12V Old Comment=LMZ14201H New Comment=Component_1
+Change Component Comment : Designator=Buck_5V Old Comment=LMZ14203HTZ New Comment=Component_1
+Change Component Comment : Designator=MEGA DIGITAL Old Comment=MEGA Digital New Comment=Componet_1
+Change Component Comment : Designator=MEGA Power Old Comment=MEGA Power New Comment=MEGA_Power
+Change Component Comment : Designator=R9 Old Comment=Res2 New Comment=smd_res1
+Change Component Comment : Designator=R10 Old Comment=Res2 New Comment=smd_res1
+Change Component Comment : Designator=SD Card Old Comment=SD Card New Comment=SD_Card
+Change Component Library : Designator=MEGA Comm Old Library=Arduino8Header.SchLib New Library=Arduino_Comm_Correct.SchLib
+Added Component: Designator=ILED1(LED)
+Added Component: Designator=ILED2(LED)
+Added Component: Designator=ILED3(LED)
+Added Component: Designator=ILED4(LED)
+Added Component: Designator=ILED5(LED)
+Added Component: Designator=R38(AXIAL-0.4)
+Added Component: Designator=R39(AXIAL-0.4)
+Added Component: Designator=R40(AXIAL-0.4)
+Added Component: Designator=R41(AXIAL-0.4)
+Added Component: Designator=SEN1(HDR1X5)
+Added Pin To Net: NetName=5V Pin=BTMP1-1
+Added Pin To Net: NetName=5V Pin=BTMP2-1
+Added Pin To Net: NetName=5V Pin=BTMP3-1
+Added Pin To Net: NetName=GND Pin=Buck_5V-8
+Added Pin To Net: NetName=GND Pin=Buck_12V-8
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=ILED1-1
+Added Pin To Net: NetName=GND Pin=ILED2-1
+Added Pin To Net: NetName=GND Pin=ILED3-1
+Added Pin To Net: NetName=GND Pin=ILED4-1
+Added Pin To Net: NetName=GND Pin=ILED5-1
+Added Pin To Net: NetName=3.3V Pin=MEGA Power-3
+Added Pin To Net: NetName=GND Pin=MEGA Power-5
+Added Pin To Net: NetName=12V Pin=MEGA Power-7
+Added Pin To Net: NetName=LA_TRIG1 Pin=Q1-2
+Added Pin To Net: NetName=LA_TRIG2 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=LA_TRIG2 Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=LA_TRIG1 Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=NetPTC1_2 Pin=R35-1
+Added Pin To Net: NetName=NetPTC2_2 Pin=R37-1
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=TE2_INT Pin=R38-2
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=TE3_INT Pin=R39-2
+Added Pin To Net: NetName=GND Pin=R40-1
+Added Pin To Net: NetName=GPRO_TRIG1 Pin=R40-2
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=GPRO_TRIG2 Pin=R41-2
+Added Pin To Net: NetName=5V Pin=SEN1-1
+Added Pin To Net: NetName=NetR25_1 Pin=SEN1-2
+Added Pin To Net: NetName=GND Pin=SEN1-3
+Added Pin To Net: NetName=NetMEGA Analog In 2_8 Pin=SEN1-4
+Added Pin To Net: NetName=3.3V Pin=SEN1-5
+Added Pin To Net: NetName=5V Pin=TMP-1
+Added Pin To Net: NetName=NetBTMP1_2 Pin=BTMP1-2
+Added Pin To Net: NetName=NetBTMP1_2 Pin=R31-2
+Added Pin To Net: NetName=NetBTMP1_2 Pin=RS Telem-3
+Added Net: Name=NetBTMP1_2
+Added Pin To Net: NetName=NetBTMP2_2 Pin=BTMP2-2
+Added Pin To Net: NetName=NetBTMP2_2 Pin=R32-2
+Added Pin To Net: NetName=NetBTMP2_2 Pin=RS Telem-4
+Added Net: Name=NetBTMP2_2
+Added Pin To Net: NetName=NetBTMP3_2 Pin=BTMP3-2
+Added Pin To Net: NetName=NetBTMP3_2 Pin=R33-2
+Added Pin To Net: NetName=NetBTMP3_2 Pin=RS Telem-5
+Added Net: Name=NetBTMP3_2
+Added Pin To Net: NetName=NetILED1_0 Pin=ILED1-0
+Added Pin To Net: NetName=NetILED1_0 Pin=R23-1
+Added Net: Name=NetILED1_0
+Added Pin To Net: NetName=NetILED2_0 Pin=ILED2-0
+Added Pin To Net: NetName=NetILED2_0 Pin=R22-1
+Added Net: Name=NetILED2_0
+Added Pin To Net: NetName=NetILED3_0 Pin=ILED3-0
+Added Pin To Net: NetName=NetILED3_0 Pin=R21-1
+Added Net: Name=NetILED3_0
+Added Pin To Net: NetName=NetILED4_0 Pin=ILED4-0
+Added Pin To Net: NetName=NetILED4_0 Pin=R20-1
+Added Net: Name=NetILED4_0
+Added Pin To Net: NetName=NetILED5_0 Pin=ILED5-0
+Added Pin To Net: NetName=NetILED5_0 Pin=R19-1
+Added Net: Name=NetILED5_0
+Added Pin To Net: NetName=NetMEGA Comm_RXD2IN Pin=PTC2-3
+Added Net: Name=NetMEGA Comm_RXD2IN
+Added Pin To Net: NetName=NetMEGA Comm_RXD3IN Pin=PTC1-3
+Added Net: Name=NetMEGA Comm_RXD3IN
+Added Pin To Net: NetName=NetMEGA Comm_TXD2IN Pin=R36-2
+Added Net: Name=NetMEGA Comm_TXD2IN
+Added Pin To Net: NetName=NetMEGA Comm_TXDIN Pin=R34-2
+Added Net: Name=NetMEGA Comm_TXDIN
+Added Pin To Net: NetName=NetMEGA DIGITAL_74 Pin=R23-2
+Added Net: Name=NetMEGA DIGITAL_74
+Added Pin To Net: NetName=NetMEGA DIGITAL_76 Pin=R22-2
+Added Net: Name=NetMEGA DIGITAL_76
+Added Pin To Net: NetName=NetMEGA DIGITAL_78 Pin=R21-2
+Added Net: Name=NetMEGA DIGITAL_78
+Added Pin To Net: NetName=NetMEGA DIGITAL_80 Pin=R20-2
+Added Net: Name=NetMEGA DIGITAL_80
+Added Pin To Net: NetName=NetMEGA DIGITAL_82 Pin=R19-2
+Added Net: Name=NetMEGA DIGITAL_82
+Added Pin To Net: NetName=NetMEGA DIGITAL_83 Pin=SD Card-5
+Added Net: Name=NetMEGA DIGITAL_83
+Added Pin To Net: NetName=NetMEGA DIGITAL_84 Pin=SD Card-6
+Added Net: Name=NetMEGA DIGITAL_84
+Added Pin To Net: NetName=NetMEGA DIGITAL_85 Pin=SD Card-4
+Added Net: Name=NetMEGA DIGITAL_85
+Added Pin To Net: NetName=NetMEGA DIGITAL_86 Pin=SD Card-7
+Added Net: Name=NetMEGA DIGITAL_86
+Added Class: Name=ArduinoPWR-DIG_SDCard
+Added Member To Class: ClassName=Telemetry_AnalogSensors_PTC08_Shifter Member=Component BTMP1 Boom Temp
+Added Member To Class: ClassName=Telemetry_AnalogSensors_PTC08_Shifter Member=Component BTMP2 Boom Temp
+Added Member To Class: ClassName=Telemetry_AnalogSensors_PTC08_Shifter Member=Component BTMP3 Boom Temp
+Added Member To Class: ClassName=GoPro_Actuator_LED Member=Component LED1 Front LED
+Added Member To Class: ClassName=GoPro_Actuator_LED Member=Component LED2 Rear LED
+Added Member To Class: ClassName=Power_TimerEvents Member=Component R38 Res2
+Added Member To Class: ClassName=Power_TimerEvents Member=Component R39 Res2
+Added Member To Class: ClassName=GoPro_Actuator_LED Member=Component R40 Res2
+Added Member To Class: ClassName=GoPro_Actuator_LED Member=Component R41 Res2
+Added Member To Class: ClassName=Analog_Input Member=Component SEN1 Temp/Press
+Added Room: Name=Analog_Input
+Added Room: Name=ArduinoPWR-DIG_SDCard
+Added Room: Name=GoPro_Actuator_LED
+Added Room: Name=Power_TimerEvents
+Added Room: Name=Telemetry_AnalogSensors_PTC08_Shifter

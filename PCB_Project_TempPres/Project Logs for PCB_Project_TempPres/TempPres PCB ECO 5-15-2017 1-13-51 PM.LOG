@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VDD5V Pin=C1-1
+Removed Pin From Net: NetName=VDD5V Pin=T-1
+Change Component DesignItemId : Designator=P Old DesignItemId=Header 4H New DesignItemId=Header 5H
+Change Component Description : Designator=P Old Description=Header, 4-Pin, Right Angle New Description=Header, 5-Pin, Right Angle
+Added Pin To Net: NetName=VDD3.3V Pin=C1-1
+Added Pin To Net: NetName=VDD3.3V Pin=T-1
+Added Net: Name=VDD3.3V
+Added Member To Class: ClassName=TempPres Member=Component C2 Cap Semi
+Added Member To Class: ClassName=TempPres Member=Component C3 Cap Semi
+Added Room: Name=TempPres

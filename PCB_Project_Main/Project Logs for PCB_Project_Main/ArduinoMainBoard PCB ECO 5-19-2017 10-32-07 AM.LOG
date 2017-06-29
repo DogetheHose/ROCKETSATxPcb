@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C18 NewDesignator=C19
+Change Component Designator: OldDesignator=C18 NewDesignator=C20
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=MAX3232-15
+Added Net: Name=NetC19_2
+Added Member To Class: ClassName=Telemetry_AnalogSensors_PTC08_Shifter Member=Component C19 0.1uF
+Added Member To Class: ClassName=Telemetry_AnalogSensors_PTC08_Shifter Member=Component C20 0.1uF
+Added Room: Name=Analog_Input
+Added Room: Name=ArduinoPWR-DIG_SDCard
+Added Room: Name=GoPro_Actuator_LED
+Added Room: Name=Power_TimerEvents
+Added Room: Name=Telemetry_AnalogSensors_PTC08_Shifter

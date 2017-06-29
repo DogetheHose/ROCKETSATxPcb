@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=HUM-1
+Removed Pin From Net: NetName=A13 Pin=HUM-2
+Removed Pin From Net: NetName=5V Pin=HUM-3
+Removed Pin From Net: NetName=A0 Pin=MEGA Analog In 2-1
+Removed Pin From Net: NetName=A1 Pin=MEGA Analog In 2-2
+Removed Pin From Net: NetName=A2 Pin=MEGA Analog In 2-3
+Removed Pin From Net: NetName=NetC13_2 Pin=MEGA Analog In 2-4
+Removed Pin From Net: NetName=NetMEGA Analog In_5 Pin=MEGA Analog In 2-5
+Removed Pin From Net: NetName=A13 Pin=MEGA Analog In 2-6
+Removed Pin From Net: NetName=NetMEGA Analog In_7 Pin=MEGA Analog In 2-7
+Removed Pin From Net: NetName=NetMEGA Analog In_8 Pin=MEGA Analog In 2-8
+Removed Pin From Net: NetName=NetMEGA Analog In_5 Pin=SEN2-4
+Removed Pin From Net: NetName=NetMEGA Analog In_7 Pin=SEN3-4
+Added Component: Designator=HUM(HDR1X3)
+Added Pin To Net: NetName=5V Pin=HUM-1
+Added Pin To Net: NetName=GND Pin=HUM-1
+Added Pin To Net: NetName=GND Pin=HUM-2
+Added Pin To Net: NetName=5V Pin=HUM-3
+Added Pin To Net: NetName=NetHUM_3 Pin=HUM-3
+Added Pin To Net: NetName=NetC13_2 Pin=MEGA Analog In 1-3
+Added Pin To Net: NetName=A13 Pin=MEGA Analog In 1-4
+Added Pin To Net: NetName=NetC14_2 Pin=MEGA Analog In 1-5
+Added Pin To Net: NetName=NetMEGA Analog In_5 Pin=MEGA Analog In 1-6
+Added Pin To Net: NetName=NetMEGA Analog In_7 Pin=MEGA Analog In 1-7
+Added Pin To Net: NetName=A13 Pin=SEN2-4
+Added Pin To Net: NetName=NetMEGA Analog In_5 Pin=SEN3-4
+Added Pin To Net: NetName=NetMEGA Analog In_7 Pin=TMP-3
+Change Net Name : Old Net Name=A13 New Net Name=NetMEGA Analog In 1_4
+Change Net Name : Old Net Name=NetMEGA Analog In_5 New Net Name=NetMEGA Analog In 1_6
+Change Net Name : Old Net Name=NetMEGA Analog In_7 New Net Name=NetMEGA Analog In 1_7
+Change Net Name : Old Net Name=NetMEGA Analog In_8 New Net Name=NetMEGA Analog In 2_12
+Added Member To Class: ClassName=Analog_Input Member=Component HUM Humidity
+Added Member To Class: ClassName=Telemetry_AnalogSensors_PTC08_Shifter Member=Component HUM Humidity
+Added Member To Class: ClassName=Analog_Input Member=Component MEGA Analog In 2 MEGA Analog Input 2
+Added Room: Name=Analog_Input

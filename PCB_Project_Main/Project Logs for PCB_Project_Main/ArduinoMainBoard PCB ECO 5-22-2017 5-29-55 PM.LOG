@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GPRO_TRIG1 Pin=R40-2
+Added Pin To Net: NetName=GPRO_TRIG2 Pin=R41-2
+Added Room: Name=Analog_Input
+Added Room: Name=ArduinoPWR-DIG_SDCard
+Added Room: Name=GoPro_Actuator_LED
+Added Room: Name=Power_TimerEvents
+Added Room: Name=Telemetry_AnalogSensors_PTC08_Shifter

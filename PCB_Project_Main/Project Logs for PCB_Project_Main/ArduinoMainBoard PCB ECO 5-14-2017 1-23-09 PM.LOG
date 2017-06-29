@@ -1,0 +1,5 @@
+Added Component: Designator=BTMP1(HDR1X2)
+Added Component: Designator=BTMP2(HDR1X2)
+Added Component: Designator=BTMP3(HDR1X2)
+Added Component: Designator=HUM(HDR1X3)
+Added Class: Name=Telemetry_AnalogSensors_PTC08_Shifter

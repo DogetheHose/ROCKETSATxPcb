@@ -1,0 +1,5 @@
+Remove Pin=M3-0 From Net=A0
+Remove Pin=M3-1 From Net=A1
+Remove Pin=M3-2 From Net=A2
+Change Pin Designator/Name:  Old Designator=HUM-1 Old Name=5V New Designator =OUT New Name=2
+Change Pin Designator/Name:  Old Designator=HUM-2 Old Name=OUT New Designator =5V New Name=1

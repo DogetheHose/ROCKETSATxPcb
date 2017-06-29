@@ -1,0 +1,17 @@
+Change Component Designator: Old Designator=ACC New Designator=ACC1
+Change Component Designator: Old Designator=C1 New Designator=C4
+Change Component Designator: Old Designator=C2 New Designator=C1
+Change Component Designator: Old Designator=C3 New Designator=C2
+Change Component Designator: Old Designator=C4 New Designator=C3
+Change Component Designator: Old Designator=MEGA Analog In New Designator=MEGA Analog In1
+Change Component Designator: Old Designator=MEGA Analog In New Designator=MEGA Analog In2
+Change Component Designator: Old Designator=MEGA PWM New Designator=MEGA PWM1
+Change Component Designator: Old Designator=R12 New Designator=R1
+Change Component Designator: Old Designator=R13 New Designator=R2
+Change Component Designator: Old Designator=R14 New Designator=R3
+Change Component Designator: Old Designator=R15 New Designator=R4
+Change Component Designator: Old Designator=R16 New Designator=R5
+Change Component Designator: Old Designator=R17 New Designator=R6
+Change Component Designator: Old Designator=SEN1 New Designator=SEN2
+Change Component Designator: Old Designator=SEN1 New Designator=SEN3
+Change Component Designator: Old Designator=TMP New Designator=TMP1

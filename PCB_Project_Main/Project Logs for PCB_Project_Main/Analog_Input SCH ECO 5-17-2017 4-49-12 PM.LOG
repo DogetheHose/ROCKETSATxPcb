@@ -1,0 +1,3 @@
+Remove Pin=M3-1 From Net=A0
+Remove Pin=M3-2 From Net=A1
+Remove Pin=M3-3 From Net=A2

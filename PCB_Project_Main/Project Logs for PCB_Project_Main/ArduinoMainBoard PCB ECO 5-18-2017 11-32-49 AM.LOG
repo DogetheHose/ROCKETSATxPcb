@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=LED_TRIG Pin=R13-2
+Added Member To Class: ClassName=Analog_Input Member=Component HUM Humidity
+Added Room: Name=Analog_Input
+Added Room: Name=ArduinoPWR-DIG_SDCard
+Added Room: Name=GoPro_Actuator_LED
+Added Room: Name=Power_TimerEvents
+Added Room: Name=Telemetry_AnalogSensors_PTC08_Shifter

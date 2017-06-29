@@ -1,0 +1,21 @@
+Change Component Comment : Designator=Buck_12V Old Comment=Component_1 New Comment=LMZ14201H
+Change Component Comment : Designator=Buck_5V Old Comment=Component_1 New Comment=LMZ14203HTZ
+Change Component Designator: OldDesignator=Temp/Pres NewDesignator=SEN1
+Added Component: Designator=C21(C1206)
+Added Component: Designator=C22(C1206)
+Added Component: Designator=C23(C1206)
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=A2 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=A1 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=A0 Pin=C23-2
+Added Member To Class: ClassName=Analog_Input Member=Component C21 Cap
+Added Member To Class: ClassName=Analog_Input Member=Component C22 Cap
+Added Member To Class: ClassName=Analog_Input Member=Component C23 Cap
+Added Member To Class: ClassName=GoPro_Actuator_LED Member=Component R41 Res2
+Added Room: Name=Analog_Input
+Added Room: Name=ArduinoPWR-DIG_SDCard
+Added Room: Name=GoPro_Actuator_LED
+Added Room: Name=Power_TimerEvents
+Added Room: Name=Telemetry_AnalogSensors_PTC08_Shifter

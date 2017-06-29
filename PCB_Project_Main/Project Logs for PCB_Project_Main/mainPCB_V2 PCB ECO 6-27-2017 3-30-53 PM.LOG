@@ -1,0 +1,6 @@
+Added Component: Designator=MEGA Power(HDR1X8)
+Added Pin To Net: NetName=3.3V Pin=MEGA Power-3
+Added Pin To Net: NetName=GND Pin=MEGA Power-5
+Added Pin To Net: NetName=GND Pin=MEGA Power-6
+Added Pin To Net: NetName=12V Pin=MEGA Power-8
+Added Member To Class: ClassName=ArduinoPWR-DIG_SDCard Member=Component MEGA Power MEGA_Power

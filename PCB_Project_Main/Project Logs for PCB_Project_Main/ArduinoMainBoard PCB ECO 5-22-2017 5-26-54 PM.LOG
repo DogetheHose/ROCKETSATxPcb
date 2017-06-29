@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GPRO_TRIG1 Pin=R40-2
+Removed Pin From Net: NetName=GPRO_TRIG2 Pin=R41-2
+Change Component Designator: OldDesignator=Temp/Pres NewDesignator=SEN1
+Added Member To Class: ClassName=Analog_Input Member=Component MEGA Analog In 1
+Added Member To Class: ClassName=GoPro_Actuator_LED Member=Component Q2 MOSFET-N
+Added Room: Name=Analog_Input
+Added Room: Name=ArduinoPWR-DIG_SDCard
+Added Room: Name=GoPro_Actuator_LED
+Added Room: Name=Power_TimerEvents
+Added Room: Name=Telemetry_AnalogSensors_PTC08_Shifter

@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=Telemetry_AnalogSensors_PTC08_Shifter Member=Component C18 0.1uF
+Added Room: Name=Analog_Input
+Added Room: Name=ArduinoPWR-DIG_SDCard
+Added Room: Name=GoPro_Actuator_LED
+Added Room: Name=Power_TimerEvents
+Added Room: Name=Telemetry_AnalogSensors_PTC08_Shifter
